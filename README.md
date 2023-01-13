@@ -126,6 +126,6 @@ Now to check whether things are working properly let's test our CloudFront Distr
 
 ![s1](/images/c9.png)
 
-Our CloudFront Distribution is working perfectly fine. We have successfully learned that how to use CloudFront with S3.
+Our CloudFront Distribution is working perfectly fine. We have successfully learned how to use CloudFront with S3.
 
 ![s1](/images/c7.png)
